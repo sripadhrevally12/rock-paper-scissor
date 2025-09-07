@@ -23,4 +23,23 @@ Responsive design
 📂 How to Run Locally
 1. Clone the repository:
 ``bash
-   git clone https://github.com/sripadhrevally12/rock-paper-scissor.git is it ok am i ready to go
+   git clone https://github.com/sripadhrevally12/rock-paper-scissor.git
+   
+2.Navigate to the project folder:
+``bash
+cd rock-paper-scissor
+
+3.Open index.html in your browser.
+(No installation required)
+
+✨ Future Improvements
+
+Adding multiplayer mode
+Adding animations and sound effects
+Keeping score history
+
+👨‍💻 Author
+
+Sripadh Revally
+🔗 GitHub Profile
+   
